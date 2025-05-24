@@ -1,0 +1,1 @@
+Bu proje, Ruby on Rails ile geliştirilmiş bir blog uygulaması olarak planlanmıştır. Projenin temel yapısı oluşturulmuştur ancak şu anda çalışır durumda değildir. Eksiklikler ve hatalar vardır.
